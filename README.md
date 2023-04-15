@@ -1,7 +1,5 @@
 Hi Everyone👋. I am Shwetha V
 
-# Studying BTech Computer Science and Engineering at REVA University 
-
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning and Web Development Projects<br>👯 I’m looking to collaborate on projects in Data Science and Full Stack Web Development Domains<br>🌱 I’m currently learning Full Stack Web Development and Data Structures<br>📫 How to reach me: shwethavachar1502@gmail.com<br>
 
